@@ -1,6 +1,8 @@
 # 💫About Me :
 I am an eccentric fullstack developer who loves to learn new technologies.
+
 🌱 I’m currently learning c, c++, PyQt, SQL, Rust.
+
 💬 Ask me about React, NextJS, Svelte, FastAPI.
 
 
