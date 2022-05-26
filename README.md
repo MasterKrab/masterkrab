@@ -17,10 +17,7 @@ I am an eccentric fullstack developer who loves ❤ to learn new technologies �
 ![](https://github-profile-trophy.vercel.app/?username=masterkrab&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=masterkrab&icon=8&color=0)](https://visitcount.itsvg.in)
